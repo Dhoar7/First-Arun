@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/First-Arun/static/css/main.a099f2d1.chunk.css",
+    "main.css": "/First-Arun/static/css/main.bb654df3.chunk.css",
     "main.js": "/First-Arun/static/js/main.55cacf37.chunk.js",
     "main.js.map": "/First-Arun/static/js/main.55cacf37.chunk.js.map",
     "runtime-main.js": "/First-Arun/static/js/runtime-main.ab01bba9.js",
@@ -10,13 +10,13 @@
     "static/js/3.71f1bd59.chunk.js": "/First-Arun/static/js/3.71f1bd59.chunk.js",
     "static/js/3.71f1bd59.chunk.js.map": "/First-Arun/static/js/3.71f1bd59.chunk.js.map",
     "index.html": "/First-Arun/index.html",
-    "static/css/main.a099f2d1.chunk.css.map": "/First-Arun/static/css/main.a099f2d1.chunk.css.map",
+    "static/css/main.bb654df3.chunk.css.map": "/First-Arun/static/css/main.bb654df3.chunk.css.map",
     "static/js/2.330efff0.chunk.js.LICENSE.txt": "/First-Arun/static/js/2.330efff0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab01bba9.js",
     "static/js/2.330efff0.chunk.js",
-    "static/css/main.a099f2d1.chunk.css",
+    "static/css/main.bb654df3.chunk.css",
     "static/js/main.55cacf37.chunk.js"
   ]
 }
