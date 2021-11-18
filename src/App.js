@@ -26,6 +26,10 @@ handleChange = (e)=>{
     const{monsters, searchField} = this.state
     const filteredMonster = monsters.filter(mon=>
       mon.name.toLowerCase().includes(searchField.toLowerCase()))
+    const test = monsters.map(({...mons})=>(mons))
+    console.log(test)
+    const id = test
+    console.log(id)
   return (
 
     <div className="App">
